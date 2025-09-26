@@ -1,0 +1,14 @@
+.image {
+  width: 2000px;
+  height: 3000px;
+}
+
+.image .khemijra {
+  position: fixed;
+  top: 1123px;
+  left: 463px;
+  width: 1440px;
+  height: 1024px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+}
